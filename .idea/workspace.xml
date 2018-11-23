@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="olx2:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c26ae074-c470-4f6f-afaf-7dd454922598" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1346039363">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="28" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="4" />
+          <entry key="project.open.time.11" value="5" />
+          <entry key="project.open.time.12" value="8" />
+          <entry key="project.open.time.13" value="6" />
+          <entry key="project.open.time.14" value="3" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="36" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="0-SNAPSHOT" value="1" />
+          <entry key="MF" value="1" />
+          <entry key="java" value="19" />
+          <entry key="pom" value="2" />
+          <entry key="properties" value="2" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="19" />
+          <entry key="Manifest" value="1" />
+          <entry key="Properties" value="2" />
+          <entry key="UML" value="1" />
+          <entry key="XML" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="21" />
+          <entry key="java" value="4393" />
+          <entry key="properties" value="40" />
+          <entry key="txt" value="49" />
+          <entry key="xml" value="111" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="4393" />
+          <entry key="PLAIN_TEXT" value="70" />
+          <entry key="Properties" value="40" />
+          <entry key="XML" value="111" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MainDBController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/olx/MainDBController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpData.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/olx/HttpData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DBClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/olx/DBClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SMTPMailSender.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/olx/SMTPMailSender.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/olx/MainClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataChecker.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/olx/DataChecker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="63" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MANIFEST.MF" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1216">
+              <caret line="64" column="55" selection-start-line="64" selection-start-column="55" selection-end-line="64" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>L</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/CreateDB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Create.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MainDb.java" />
+        <option value="$PROJECT_DIR$/src/main/java/httpData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MainDB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dbClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/EmailService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/EmailServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HttpData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SimpleEmailController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MailController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SMTPMailSender.java" />
+        <option value="$PROJECT_DIR$/src/main/java/olx/MainDDController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/olx/dataCheaker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/olx/DataCheaker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/olx/MailController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/olx/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/olx/SMTPMailSender.java" />
+        <option value="$PROJECT_DIR$/src/main/java/olx/DBClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/olx/MainDBController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/olx/HttpData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/olx/DataChecker.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="olx" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="960" />
+    <option name="y" value="27" />
+    <option name="width" value="960" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="olx2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olx2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olx2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olx2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olx2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olx2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olx2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olx2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olx2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olx2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="olx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olx2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olx2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="histo&#9;ACTION&#9;LocalHistory&#10;hist&#9;ACTION&#9;FileHistory.KeymapGroup&#10;ter&#9;ACTION&#9;ActivateTerminalToolWindow" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541702386688" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="olx" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="olx.MainClass" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/.." />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c26ae074-c470-4f6f-afaf-7dd454922598" name="Default Changelist" comment="" />
+      <created>1540282877150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540282877150</updated>
+      <workItem from="1540282881394" duration="23726000" />
+      <workItem from="1540326325426" duration="5936000" />
+      <workItem from="1540368638551" duration="1013000" />
+      <workItem from="1540369825794" duration="6596000" />
+      <workItem from="1540379594304" duration="6206000" />
+      <workItem from="1540401288266" duration="2783000" />
+      <workItem from="1540457576741" duration="3556000" />
+      <workItem from="1540500050645" duration="4228000" />
+      <workItem from="1540504596582" duration="1047000" />
+      <workItem from="1540572750829" duration="25067000" />
+      <workItem from="1540664093506" duration="412000" />
+      <workItem from="1540664702258" duration="471000" />
+      <workItem from="1540668724040" duration="6838000" />
+      <workItem from="1540800009905" duration="8401000" />
+      <workItem from="1540980551049" duration="7742000" />
+      <workItem from="1541000071705" duration="618000" />
+      <workItem from="1541098771238" duration="748000" />
+      <workItem from="1541426562499" duration="1214000" />
+      <workItem from="1541438612790" duration="1812000" />
+      <workItem from="1541440451184" duration="1785000" />
+      <workItem from="1541442261921" duration="1287000" />
+      <workItem from="1541500874711" duration="1881000" />
+      <workItem from="1541627305446" duration="2003000" />
+      <workItem from="1541629608134" duration="1530000" />
+      <workItem from="1541631637921" duration="1278000" />
+      <workItem from="1541676045151" duration="1294000" />
+      <workItem from="1541687936379" duration="924000" />
+      <workItem from="1541692012270" duration="1384000" />
+      <workItem from="1541697000546" duration="1786000" />
+      <workItem from="1541698818724" duration="1785000" />
+      <workItem from="1541700646627" duration="1784000" />
+      <workItem from="1541702456381" duration="788000" />
+      <workItem from="1541751364239" duration="2251000" />
+      <workItem from="1541760332545" duration="607000" />
+      <workItem from="1542289668320" duration="3346000" />
+      <workItem from="1542383494803" duration="427000" />
+      <workItem from="1542406678328" duration="1323000" />
+      <workItem from="1542641878696" duration="1241000" />
+      <workItem from="1542799505367" duration="1260000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="138378000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053364" side_tool="true" weight="0.36490852" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.12708333" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994664" weight="0.8303477" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.0" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.084895834" />
+      <window_info anchor="right" id="Bean Validation" order="6" weight="0.32977587" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.2497332" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.11302476" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32876712" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32982087" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info id="Image Layers" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4994664" visible="true" weight="0.36490852" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053364" side_tool="true" weight="0.36490852" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32938644" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18890075" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39935413" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/olx/SMTPMailSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/olx/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="63" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="64" column="55" selection-start-line="64" selection-start-column="55" selection-end-line="64" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/olx/DataChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="62" column="9" lean-forward="true" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/olx/MainDBController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/olx/HttpData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/olx/DBClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/olx/SMTPMailSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/olx/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/olx/DataChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="63" lean-forward="true" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="64" column="55" lean-forward="true" selection-start-line="64" selection-start-column="55" selection-end-line="64" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/olx/MainDBController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/olx/HttpData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/olx/DBClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/olx/SMTPMailSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/olx/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/olx/DataChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="61" column="13" lean-forward="true" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="105" column="41" selection-start-line="105" selection-start-column="41" selection-end-line="105" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/olx/MainDBController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/olx/HttpData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/olx/SMTPMailSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/olx/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/olx/DataChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="50" column="70" selection-start-line="50" selection-start-column="70" selection-end-line="50" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="105" column="41" selection-start-line="105" selection-start-column="41" selection-end-line="105" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/olx/DBClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreateDB.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/MainDb.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/EmailApp.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/EmailService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/EmailServiceImpl.java" />
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.5.7.RELEASE/spring-boot-dependencies-1.5.7.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10507">
+          <caret line="553" column="24" lean-forward="true" selection-start-line="553" selection-start-column="24" selection-end-line="553" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/1.5.7.RELEASE/spring-boot-starter-parent-1.5.7.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="151" column="16" selection-start-line="151" selection-start-column="16" selection-end-line="151" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/olx/MailController.java" />
+    <entry file="uml://MAVEN/olx:olx:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>olx:olx:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">olx:olx:1.0-SNAPSHOT</node>
+            <node x="" y="">commons-io:commons-io:jar:2.6</node>
+            <node x="" y="">org.apache.httpcomponents:httpclient:jar:4.5.6</node>
+            <node x="" y="">org.apache.httpcomponents:httpclient:jar:4.5.6/org.apache.httpcomponents:httpcore:jar:4.4.6</node>
+            <node x="" y="">org.apache.httpcomponents:httpclient:jar:4.5.6/commons-codec:commons-codec:jar:1.10</node>
+            <node x="" y="">commons-lang:commons-lang:jar:2.3</node>
+            <node x="" y="">javax.mail:mail:jar:1.4</node>
+            <node x="" y="">javax.mail:mail:jar:1.4/javax.activation:activation:jar:1.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.7.RELEASE/org.springframework.boot:spring-boot:jar:1.5.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.7.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.5.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.7.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.7.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11/ch.qos.logback:logback-core:jar:1.1.11</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.7.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11/org.slf4j:slf4j-api:jar:1.7.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.7.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.7.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.7.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.7.RELEASE/org.springframework:spring-core:jar:4.3.11.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.7.RELEASE/org.yaml:snakeyaml:jar:1.17</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-mail:jar:1.5.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-mail:jar:1.5.7.RELEASE/org.springframework:spring-context-support:jar:4.3.11.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-mail:jar:1.5.7.RELEASE/com.sun.mail:javax.mail:jar:1.5.6</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.7.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.7.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.7.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.20</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.7.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.7.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.20</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.7.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.7.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.20</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.7.RELEASE/org.hibernate:hibernate-validator:jar:5.3.5.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.7.RELEASE/org.hibernate:hibernate-validator:jar:5.3.5.Final/javax.validation:validation-api:jar:1.1.0.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.7.RELEASE/org.hibernate:hibernate-validator:jar:5.3.5.Final/org.jboss.logging:jboss-logging:jar:3.3.1.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.7.RELEASE/org.hibernate:hibernate-validator:jar:5.3.5.Final/com.fasterxml:classmate:jar:1.3.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.7.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.10</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.7.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.10/com.fasterxml.jackson.core:jackson-annotations:jar:2.8.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.7.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.10/com.fasterxml.jackson.core:jackson-core:jar:2.8.10</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.7.RELEASE/org.springframework:spring-web:jar:4.3.11.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.7.RELEASE/org.springframework:spring-webmvc:jar:4.3.11.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.3.11.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.3.11.RELEASE/org.springframework:spring-aop:jar:4.3.11.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.3.11.RELEASE/org.springframework:spring-beans:jar:4.3.11.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.3.11.RELEASE/org.springframework:spring-expression:jar:4.3.11.RELEASE</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.27020506634499397" x="1422.0" y="405.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/olx/SMTPMailSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/olx/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/olx/DBClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/olx/HttpData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="63" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="64" column="55" selection-start-line="64" selection-start-column="55" selection-end-line="64" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/olx/MainDBController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/olx/DataChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>olx2:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>olx</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: commons-codec:commons-codec:1.10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="install" />
+    <option value="spring-boot:run" />
+    <option value="package" />
+  </component>
+</project>
