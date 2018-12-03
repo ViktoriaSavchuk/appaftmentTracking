@@ -8,21 +8,26 @@ public class DBClass extends HttpData {
 
 
     ArrayList<String> links = new ArrayList<>();
+    //String parts
 
 
     public ArrayList<String> linkRegExp(String data) {
 
-        data = data.split("Обычные\\ объявления")[1];
+        //System.out.println(data);
 
-        Matcher m = Pattern.compile("<a href=\"https:\\/\\/www\\.olx\\.ua\\/obyavlenie\\/(.*)\\\" c").matcher(data);
+        data = data.split("<div class=\"hasPromoted section clr\">")[1];
+
+
+
+
+
+        Matcher m = Pattern.compile("<a href=\"https://www\\.olx\\.ua/obyavlenie/(.*)\" c").matcher(data);
         int i = 0;
 
         while (m.find() && i < 3) {
-
-           // if (!m.group(1).contains("promoted")) {
                 links.add("https://www.olx.ua/obyavlenie/"+m.group(1));
                 i++;
-           // }
+
 
         }
         return links;

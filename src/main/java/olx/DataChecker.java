@@ -32,10 +32,18 @@ public class DataChecker extends MainDBController {
 
         stringHttp.replace(0, stringHttp.length(),data.creatingData(url));
 
-        stringHttp.replace(0, stringHttp.length(), stringHttp.toString().split("Обычные\\ объявления")[1]);
+       try {
 
 
-        p = Pattern.compile("<a href=\"https:\\/\\/www\\.olx\\.ua\\/obyavlenie\\/(.*)\\\" c");
+        stringHttp.replace(0, stringHttp.length(), stringHttp.toString().split("<div class=\"hasPromoted section clr\">")[1]);}
+        catch (ArrayIndexOutOfBoundsException e){
+
+            System.out.println("Can not divide ");
+        }
+
+
+
+        p = Pattern.compile("<a href=\"https://www\\.olx\\.ua/obyavlenie/(.*)\" c");
         m = p.matcher(stringHttp);
 
 
