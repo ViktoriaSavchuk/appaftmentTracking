@@ -51,17 +51,6 @@ public class UrlStarter {
             }
             System.out.println();
         }
-
         return this.dbList;
     }
-
-
-
-    /*public void setDbList() {
-        this.dbList = createStartDB();
-    }
-
-    public List<String[]> getDbList() {
-        return dbList;
-    }*/
 }
