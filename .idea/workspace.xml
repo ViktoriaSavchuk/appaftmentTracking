@@ -6,17 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c26ae074-c470-4f6f-afaf-7dd454922598" name="Default Changelist" comment="Modified for more than one link">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/olx/DBClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/olx/DataChecker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/olx/HttpData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/olx/HttpData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/olx/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/olx/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/olx/MainDBController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/olx/SMTPMailSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/olx/SMTPMailSender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="c26ae074-c470-4f6f-afaf-7dd454922598" name="Default Changelist" comment="Modified for more than one link" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -99,7 +89,7 @@
       <file leaf-file-name="MainClass.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/olx/MainClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
+            <state relative-caret-position="423">
               <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -449,12 +439,20 @@
       <workItem from="1547706278602" duration="2412000" />
       <workItem from="1548017379540" duration="611000" />
       <workItem from="1548509179000" duration="149000" />
-      <workItem from="1548775618668" duration="293000" />
+      <workItem from="1548775618668" duration="550000" />
     </task>
+    <task id="LOCAL-00001" summary="Modified for more than one link">
+      <created>1548775918924</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1548775918924</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="235148000" />
+    <option name="totallyTimeSpent" value="235405000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -467,11 +465,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="960" height="1053" extended-state="4" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32925472" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32925472" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.32925472" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -484,7 +481,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.0" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23194748" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23194748" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2497332" />
@@ -899,7 +896,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/olx/MainClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
+        <state relative-caret-position="423">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="imports" expanded="true" />
