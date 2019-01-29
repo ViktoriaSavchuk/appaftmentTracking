@@ -14,30 +14,21 @@ public class HttpData {
 
     String data;
 
-
     @Bean
     public String creatingData(String url) {
-
         try (
-
                 CloseableHttpClient client = HttpClients.createDefault();
-                CloseableHttpResponse response = client.execute(new HttpGet(url));
+                CloseableHttpResponse response = client.execute(new HttpGet(url))
         ) {
             HttpEntity entity = response.getEntity();
 
             if (entity != null) {
                 this.data = IOUtils.toString(entity.getContent());
-
-
             }
 
         } catch (IOException e) {
             e.printStackTrace();
         }
-
-        //System.out.println(this.data);
         return this.data;
-
     }
-
 }
